@@ -1,0 +1,22 @@
+body {
+    background-color: grey;
+    /*background-image: url(img/ochentas.jpg);*/
+    background-attachment: fixed;
+}
+
+p {
+    font-size: 22px;
+    font-family: 'Patrick Hand', cursive;
+    color: white;
+}
+
+.parrafo {
+    font-size: 26px;
+    font-family: 'Patrick Hand', cursive;
+    color: white;
+}
+
+.enfasis {
+    font-size: 30px;
+    color: darkred;
+}
